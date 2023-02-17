@@ -1,0 +1,83 @@
+1676460223894:gl
+1676460228404:merge
+1676460343641:merge --filePath C:\\Users\\ankit.mongia\\OneDrive - Algosec Systems Ltd\\Desktop\\JIRA\\SUP-21234\\testLogAnalyzer
+1676460355810:merge --filepath "C:\\Users\\ankit.mongia\\OneDrive - Algosec Systems Ltd\\Desktop\\JIRA\\SUP-21234\\testLogAnalyzer"
+1676460384156:merge --filePath
+1676460408406:merge --filePath "C:\\Users\\ankit.mongia\\OneDrive - Algosec Systems Ltd\\Desktop\\JIRA\\SUP-21234\\testLogAnalyzer"
+1676460448504:merge --filePath 'C:\\Users\\ankit.mongia\\OneDrive - Algosec Systems Ltd\\Desktop\\JIRA\\SUP-21234\\testLogAnalyzer'
+1676460578950:merge --filePath "C:\\Users\\ankit.mongia\\OneDrive - Algosec Systems Ltd\\Desktop\\JIRA\\SUP-21234\\testLogAnalyzer"
+1676461293949:merg
+1676461329708:merge --filePath "shell:>merge --filepath "C:\\\\Users\\\\ankit.mongia\\\\OneDrive - Algosec Systems Ltd\\\\Desktop\\\\JIRA\\\\SUP-21234\\\\testLogAnalyzer\\"
+1676461671680:help
+1676461688927:help gl
+1676461699357:help merge
+1676461796965:help
+1676461844973:help gl
+1676464669586:merge --filePath "."
+1676464686219:merge --filePath "./"
+1676464774680:merge --filePath "C:\\Users\\ankit.mongia\\OneDrive - Algosec Systems Ltd\\Desktop\\JIRA\\SUP-21234\\testLogAnalyzer\n\n"
+1676465016524:merge --filePath sd
+1676465039836:merge
+1676465548601:shell
+1676465551426:merge
+1676467302817:gl -n 2
+1676467308503:gl -ns 2
+1676467313508:gl --ns 2
+1676471285478:gl --sn 2
+1676471288170:gl --ns 1
+1676471624138:gl --ns 2
+1676471627524:gl --ns 3
+1676471668037:gl --ns 7
+1676471672805:gl --ns 23423
+1676471712198:gl --ns 10
+1676471716473:gl --ns 11
+1676471719985:gl --ns 50
+1676471722891:gl --ns 100
+1676471726094:gl --ns 500
+1676471729495:gl --ns 250
+1676471736460:gl --ns 150
+1676471739428:gl --ns 101
+1676471742281:gl --ns 120
+1676471747142:gl --ns 140
+1676471750494:gl --ns 130
+1676471754017:gl --ns 125
+1676471756947:gl --ns 122
+1676471759959:gl --ns 121
+1676471762752:gl --ns 120
+1676471800633:gl --ns 2
+1676471804773:gl --ns 3
+1676472035430:merge
+1676472375594:gl --ns 500
+1676472693227:gl --ns 400
+1676472696908:gl --ns 300
+1676472700174:gl --ns 200
+1676472704117:gl --ns 100
+1676472713771:gl --ns 2
+1676472786032:gl --ns 10
+1676472894335:gl --ns 5
+1676473081814:gl --ns 60
+1676473102759:gl -ns 120
+1676473106628:gl --ns 120
+1676473122298:gl --ns 60
+1676473126750:gl --ns 80
+1676473141472:gl -ns 1
+1676473144364:gl --ns 1
+1676473451966:gl --ns 120
+1676473467832:gl --ns 600
+1676473538051:gl --ns 500
+1676473722218:gl --ns 1000
+1676473737856:gl --ns 1
+1676473758864:gl --ns 600
+1676474217786:gl --ns
+1676474265791:gl --ns 600
+1676474274171:gl --ns 1200
+1676474281411:gl --ns 6000
+1676474531455:gl --ns 1000
+1676474679083:gl --ns 100
+1676474694886:gl --ns 500
+1676474707177:gl --ns 6000
+1676474804126:gl --ns 300
+1676521545213:gl --ns 6
+1676521555367:gl --ns 100
+1676521575396:gl --ns 300
+1676521585627:gl --ns 250
